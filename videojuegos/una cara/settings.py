@@ -1,0 +1,16 @@
+# game settings
+WIDTH = 640
+HEIGHT = 480
+FPS = 30
+TITLE = "una cara"
+
+# R, G, B
+BLACK = (0,0,0)
+WHITE = (255, 255, 255)
+DARKGREY = (32, 32, 32)
+MIDGREY = (128, 128, 128)
+LIGHTGREY = (200, 200, 200)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+PINK = (219, 185, 200)
